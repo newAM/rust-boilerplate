@@ -1,0 +1,19 @@
+[package]
+name = "rust-boilerplate"
+version = "0.1.0"
+authors = ["Alex M. <alexmgit@protonmail.com>"]
+edition = "2018"
+keywords = []
+categories = []
+license = "MIT"
+repository = "https://github.com/newAM/rust-boilerplate"
+documentation = "https://docs.rs/rust-boilerplate"
+readme = "README.md"
+
+[dependencies]
+
+[dev-dependencies]
+version-sync = "0.9.1"
+
+[badges]
+maintenance = { status = "experimental" }
